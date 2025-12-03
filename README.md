@@ -1,5 +1,4 @@
-<h1 align="center">HMPIWD /home/hmpiwd</h1>
-<h3 align="center">DDNet client&server developer</h3>
+<h3 align="center">DDNet client & server developer</h3>
 
 - Community Project: [Y•T•H](https://discord.gg/ffpQuwV6XW)
 
